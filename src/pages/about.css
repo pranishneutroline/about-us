@@ -3,13 +3,7 @@
   padding: 0;
   /* background-color: antiquewhite; */
 }
-.aboutSection {
-  display: grid;
-  grid-template-rows: 529px 650px 700px 750px 500px 200px 200px;
-}
-.first {
-  /* background-color: aliceblue;  */
-}
+
 h3 {
   color: black;
   font-weight: bold;
